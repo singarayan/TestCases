@@ -1,0 +1,10 @@
+platformName=android
+platformVersion=8
+deviceName=android
+appNoReset=false
+appiumPortNo=4723
+appiumServerIP=127.0.0.1
+chromeDriverPort=9715
+bootstrapPort=4455
+systemPort=8200
+udid=emulator-5554
